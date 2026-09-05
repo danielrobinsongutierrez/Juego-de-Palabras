@@ -5,6 +5,8 @@ import {defineConfig} from 'vite';
 import {VitePWA} from 'vite-plugin-pwa';
 
 export default defineConfig(() => {
+   base: './', // <-- AGREGA ESTA LÍNEA EXACTAMENTE AQUÍ
+  // ... deja todo el resto de tu código tal como estaba
   return {
     plugins: [
       react(),
