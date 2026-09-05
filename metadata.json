@@ -1,0 +1,6 @@
+{
+  "name": "Constructor de Palabras 3D",
+  "description": "Juego interactivo 3D para que niños de primaria aprendan a leer construyendo casas con cartas de palabras, tienda de colores, retos diarios y estadísticas de progreso escolar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
